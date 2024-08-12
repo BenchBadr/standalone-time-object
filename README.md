@@ -1,4 +1,4 @@
-#*Standalone and easy Python time Object
+# Standalone and easy Python time Object
 
 ![image](https://wallpapercave.com/wp/wp4491645.png)
 
